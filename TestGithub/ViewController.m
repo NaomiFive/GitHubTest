@@ -46,7 +46,6 @@
 }
 
 - (void)jhangShuo {
-    NSLog(@"Hello everybody");
     
 }
 
