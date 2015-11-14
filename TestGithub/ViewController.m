@@ -23,15 +23,22 @@
     [super didReceiveMemoryWarning];
     // Dispose of any resources that can be recreated.
 }
+- (IBAction)truthBtn:(id)sender {
+    [self naomi];
+}
 
 - (void)naomi {
-    
+    UIAlertController *truth = [UIAlertController alertControllerWithTitle:@"Naomi so cute" message:@"" preferredStyle:UIAlertControllerStyleAlert];
+    UIAlertAction *ok = [UIAlertAction actionWithTitle:@"我知道" style:UIAlertActionStyleDefault handler:nil];
+    [truth addAction:ok];
+    [self showViewController:truth sender:nil];
+    NSLog(@"I'm cute!");
 }
 
 - (void)ko {
     id fuck;
     id shit;
-    id what the fancy;
+    id what;
 }
 
 - (void)raintoo {
@@ -39,7 +46,6 @@
 }
 
 - (void)jhangShuo {
-    NSLog(@"Hello everybody");
     
 }
 
