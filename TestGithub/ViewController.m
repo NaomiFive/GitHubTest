@@ -29,6 +29,8 @@
 }
 
 - (void)ko {
+    id fuck;
+    id shit;
     
 }
 
