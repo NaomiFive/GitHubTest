@@ -25,7 +25,7 @@
 }
 
 - (void)naomi {
-    
+    NSLog(@"I'm cute!");
 }
 
 - (void)ko {
