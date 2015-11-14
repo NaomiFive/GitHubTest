@@ -38,7 +38,7 @@
 - (void)ko {
     id fuck;
     id shit;
-    id what the fancy;
+    id what;
 }
 
 - (void)raintoo {
