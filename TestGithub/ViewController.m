@@ -31,7 +31,9 @@
 - (void)ko {
     id fuck;
     id shit;
-    id what the fancy;
+    id what_the_fancy;
+    NSLog(@"0542 change");
+    
 }
 
 - (void)raintoo {
