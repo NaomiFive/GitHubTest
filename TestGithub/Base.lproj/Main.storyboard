@@ -16,7 +16,20 @@
                     <view key="view" contentMode="scaleToFill" id="8bC-Xf-vdC">
                         <rect key="frame" x="0.0" y="0.0" width="600" height="600"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="6ZM-FL-7V8">
+                                <rect key="frame" x="263" y="285" width="75" height="30"/>
+                                <state key="normal" title="點我聽實話"/>
+                                <connections>
+                                    <action selector="truthBtn:" destination="BYZ-38-t0r" eventType="touchUpInside" id="Vf3-CB-Vlf"/>
+                                </connections>
+                            </button>
+                        </subviews>
                         <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="calibratedWhite"/>
+                        <constraints>
+                            <constraint firstItem="6ZM-FL-7V8" firstAttribute="centerY" secondItem="8bC-Xf-vdC" secondAttribute="centerY" id="9aB-s8-uo8"/>
+                            <constraint firstItem="6ZM-FL-7V8" firstAttribute="centerX" secondItem="8bC-Xf-vdC" secondAttribute="centerX" id="cOq-VU-nXC"/>
+                        </constraints>
                     </view>
                     <toolbarItems/>
                     <simulatedToolbarMetrics key="simulatedBottomBarMetrics"/>
