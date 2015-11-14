@@ -1,5 +1,13 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<<<<<<< HEAD:Main.storyboard
 <document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="9059" systemVersion="14F27" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" initialViewController="cWp-Kg-dWV">
+=======
+<<<<<<< HEAD:TestGithub/Base.lproj/Main.storyboard
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="9059" systemVersion="15B42" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" initialViewController="BYZ-38-t0r">
+=======
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="9060" systemVersion="15B42" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES">
+>>>>>>> 630b0c46edb93aede9b0195dabf2e9681a84d4a4:Main.storyboard
+>>>>>>> 98f78c72f4da59f63e5629e9ee6f091b1cd91484:TestGithub/Main.storyboard
     <dependencies>
         <deployment identifier="iOS"/>
         <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="9049"/>
@@ -26,11 +34,18 @@
                             </button>
                         </subviews>
                         <animations/>
+<<<<<<< HEAD:TestGithub/Base.lproj/Main.storyboard
+                        <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="calibratedWhite"/>
+=======
                         <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+<<<<<<< HEAD:Main.storyboard
                         <constraints>
                             <constraint firstItem="pwF-l5-fDB" firstAttribute="centerX" secondItem="UcJ-IK-sD8" secondAttribute="centerX" id="CxO-lH-nZc"/>
                             <constraint firstItem="pwF-l5-fDB" firstAttribute="centerY" secondItem="UcJ-IK-sD8" secondAttribute="centerY" id="fR4-Yy-LHv"/>
                         </constraints>
+=======
+>>>>>>> 630b0c46edb93aede9b0195dabf2e9681a84d4a4:Main.storyboard
+>>>>>>> 98f78c72f4da59f63e5629e9ee6f091b1cd91484:TestGithub/Main.storyboard
                     </view>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="yPh-rQ-Xyu" userLabel="First Responder" sceneMemberID="firstResponder"/>
