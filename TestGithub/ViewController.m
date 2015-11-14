@@ -36,7 +36,9 @@
 }
 
 - (void)ko {
-    
+    id fuck;
+    id shit;
+    id what the fancy;
 }
 
 - (void)raintoo {
@@ -44,6 +46,7 @@
 }
 
 - (void)jhangShuo {
+    NSLog(@"Hello everybody");
     
 }
 
