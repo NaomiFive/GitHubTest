@@ -42,7 +42,7 @@
 }
 
 - (void)raintoo {
-    
+    NSLog(@"你是T嗎？");
 }
 
 - (void)jhangShuo {
