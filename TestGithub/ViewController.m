@@ -40,7 +40,7 @@
 
 - (void)jhangShuo {
     NSLog(@"Hello everybody");
-    
+    NSLog(@"Hello hollycow");
 }
 
 @end
